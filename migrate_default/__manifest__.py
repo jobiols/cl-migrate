@@ -27,8 +27,9 @@
     'website': 'http://github.com/jobiols/cl-migrate',
     'license': 'AGPL-3',
     'depends': [
-        'standard_depends_ce'
-        ],
+        'etl',
+        'web_responsive'
+    ],
     'installable': True,
 
     # manifest version, if omitted it is backward compatible
@@ -80,7 +81,7 @@
         # 'https://github.com/OCA/bank-payment oca-bank-payment',
         # 'https://github.com/OCA/account-invoice-reporting oca-account-invoice-reporting',
         # 'https://github.com/OCA/timesheet oca-timesheet',
-        # 'https://github.com/OCA/web oca-web',
+        'https://github.com/OCA/web oca-web',
         # 'https://github.com/OCA/account-financial-tools oca-account-financial-tools',
         # 'https://github.com/OCA/sale-reporting oca-sale-reporting',
         # 'https://github.com/OCA/account-financial-reporting oca-account-financial-reporting',
