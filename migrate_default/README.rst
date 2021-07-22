@@ -8,9 +8,9 @@
    :target: https://www.gnu.org/licenses/agpl
    :alt: License: AGPL-3
 
-============
-TEMPLATE V13
-============
+===========
+MIGRATE V13
+===========
 
 
 |company_logo|
